@@ -1,2 +1,2 @@
-# couponservice
+# eureka server
 spring cloud - 1
